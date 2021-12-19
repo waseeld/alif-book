@@ -1,0 +1,9 @@
+[book]
+authors = ["alifcommunity"]
+language = "ar"
+multilingual = false
+src = "src"
+title = "توثيق لغة البرمجة ألف"
+
+[output.html]
+additional-css = ["theme/RTL.css"]
